@@ -17,6 +17,7 @@ interface SignupForm {
   password: FormControl,
   passwordConfirm: FormControl
 }
+
 @Component({
   selector: 'app-signup',
   imports: [
